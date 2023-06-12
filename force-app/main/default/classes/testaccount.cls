@@ -3,5 +3,6 @@ public with sharing class testaccount {
         integer a = 5;
         integer b = 10;
         integer d = 50;
+        integer e = 60;
     }
 }
